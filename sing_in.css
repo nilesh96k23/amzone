@@ -1,0 +1,45 @@
+#sing_In{
+    padding-left: 16px;
+    padding-right: 20px;
+    color: rgb(9, 9, 9);
+    font-weight: 900;
+    background-color: azure;
+    
+   }
+   #Wel-Come{
+    color: white;
+   }
+   #sing_Up{
+    padding-bottom: 50px;
+    color: rgb(6, 6, 6);
+   }
+   .main{
+       /* margin-top: 20px; */
+       
+       width: 40%;
+       border: 1px solid black;
+       border-radius: 10px;
+       padding-bottom: 10px;
+       background-image: url("amzone_Logo.jpg"); 
+       background-repeat: no-repeat;
+       background-position: center;
+       background-size: cover;
+     
+   }
+   /* body{
+          background-image: url("amzone_Logo.jpg"); 
+         background-repeat: no-repeat;
+         background-position: center;
+         background-size: cover;
+       
+   } */
+    
+   #button{
+       border: none;
+       border-radius: 15px;
+       height: 35px;
+       width: 90px;
+       background-color:yellow;
+       color: rgb(17, 17, 17);
+   }
+   

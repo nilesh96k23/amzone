@@ -1,0 +1,21 @@
+.main{
+    border: 1px solid black;
+    width: 35%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+
+}
+#input{
+ border-radius: 5px;
+    height: 25px;
+    width: 180px;
+}
+#login{
+    height: 28px;
+    width: 90px;
+    background-color: blue;
+    color:white;
+    border: none;
+    border-radius: 10px;
+}
